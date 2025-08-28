@@ -1,0 +1,37 @@
+[
+    {
+        "nome": "Roberto",
+        "cpf": "27788875805",
+        "tel": "11885742639",
+        "email": "asdaskrobs@gmail.com",
+        "end": "padre rivail"
+    },
+    {
+        "nome": "Pedro",
+        "cpf": "98723289411",
+        "tel": "11995847230",
+        "email": "asdokas2gmail.com",
+        "end": "jorge maria"
+    },
+    {
+        "nome": "Gustavo",
+        "cpf": "49684715803",
+        "tel": "19997777060",
+        "email": "galgu38@gmail.com",
+        "end": "estevan bozolla"
+    },
+    {
+        "nome": "Lucas",
+        "cpf": "49684715803",
+        "tel": "11993824730",
+        "email": "glaug38@gmail.com",
+        "end": "oaskdas"
+    },
+    {
+        "nome": "Fernando",
+        "cpf": "20394829301",
+        "tel": "11993824830",
+        "email": "fernandotorres@gmail.com",
+        "end": "padre rivas"
+    }
+]
