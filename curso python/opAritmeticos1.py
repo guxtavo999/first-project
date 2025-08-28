@@ -8,3 +8,4 @@ divisao = a / b
 restodiv = a % b
 
 print("A soma desse número é:", soma, "Subtração: ", sub, "multiplicacao: ", multiplicacao, "divisao: ", divisao, "resto da divisao: ", restodiv)
+print("testando branchs")
