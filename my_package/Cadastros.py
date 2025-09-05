@@ -233,3 +233,4 @@ def Cadastros():
 
         else:
             print("\nOpção inválida! Por favor, escolha uma opção de 1 a 5.\n")
+# praticando github
