@@ -274,5 +274,6 @@ def Cadastros():
             break
         else:
             print("\nOpção inválida! Por favor, escolha uma opção de 1 a 6.\n")
+            
 if __name__ == "__main__":
     Cadastros()
