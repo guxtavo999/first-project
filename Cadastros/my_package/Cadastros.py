@@ -277,11 +277,3 @@ def Cadastros():
             
 if __name__ == "__main__":
     Cadastros()
-
-# testes necessarios conta github
-# testes necessarios conta github
-# testes necessarios conta github
-# testes necessarios conta github
-# testes necessarios conta github
-# testes necessarios conta github
-# testes necessarios conta github
